@@ -1,6 +1,6 @@
-# Learning variable-length skills through Novelty-Based Decision Point identification
+# NBDI: A Simple and Efficient Termination Condition for Skill Extraction from Demonstration
 
-This is the PyTorch implementation of the paper "**Learning variable-length skills through Novelty-Based Decision Point identification**".  
+This is the PyTorch implementation of the paper "**NBDI: A Simple and Efficient Termination Condition for Skill Extraction from Demonstration**".  
 This provides NBDI algorithm working in `kitchen` environment.
 
 ## Requirements
