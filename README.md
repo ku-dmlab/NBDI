@@ -1,6 +1,6 @@
-# NBDI: A Simple and Efficient Termination Condition for Skill Extraction from Demonstration
+# NBDI: A Simple and Efficient Termination Condition for Skill Extraction from Task-Agnostic Demonstrations
 
-This is the PyTorch implementation of the paper "**NBDI: A Simple and Efficient Termination Condition for Skill Extraction from Demonstration**".  
+This is the PyTorch implementation of the paper "**NBDI: A Simple and Efficient Termination Condition for Skill Extraction from Task-Agnostic Demonstrations**".  
 This provides NBDI algorithm working in `kitchen` environment.
 
 ## Requirements
