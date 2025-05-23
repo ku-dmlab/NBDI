@@ -37,5 +37,5 @@ For training a NBDI agent on the kitchen environment using the pre-trained skill
 python train_rl.py --path nbdi/configs/hrl/kitchen/nbdi_cl --seed 0 --gpu 0
 ```
 
-### Acknowledgements
+## Acknowledgements
 Our code implementation is largely borrowed from [SPiRL](https://github.com/clvrai/spirl).
